@@ -1,4 +1,4 @@
-### macOS rickroll
+# macOS rickroll
 Opens a rickroll in YouTube in full screen at maximum volume.
 
 ## Details:

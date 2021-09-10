@@ -1,4 +1,4 @@
-### macOS Ducky Scripts
+# macOS Ducky Scripts
 This is a collection of Ducky Script payloads I have written for the Hak5 USB Rubber Ducky that specifically target macOS computers. I have included both the payload.txt as well as the inject.bin for each script.
 
 ## List of Scripts:
