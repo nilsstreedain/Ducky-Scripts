@@ -9,9 +9,7 @@ Version: | 1.0
 Target: | macOS 11.0+
 
 ## Ducky Script:
-\```/macOS/rickrollPayload/payload.txt
-
-\```
+[payload.txt](/macOS/rickrollPayload/payload.txt)
 
 ## Encoded Payload:
 [inject.bin](/macOS/rickrollPayload/inject.bin)
