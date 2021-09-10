@@ -1,4 +1,4 @@
-REM Name:			macOS rickroll
+REM Name:		macOS rickroll
 REM Description:	Opens a rickroll in YouTube in full screen at maximum volume.
 REM Author:		Nils Streedain
 REM Version:		1.0

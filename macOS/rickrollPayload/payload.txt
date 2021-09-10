@@ -1,7 +1,7 @@
-REM Name:			macOS rickroll with terminal payload
+REM Name:		macOS rickroll with terminal payload
 REM Description:	Opens a rickroll in YouTube in full screen at maximum volume
-REM				as a distraction while another command is run in terminal.
-REM				(Replace terminalCommand with your own command)
+REM			as a distraction while another command is run in terminal.
+REM			(Replace terminalCommand with your own command)
 REM Author:		Nils Streedain
 REM Version:		1.0
 REM Target:		macOS 11.0+
