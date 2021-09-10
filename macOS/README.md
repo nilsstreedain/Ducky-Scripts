@@ -4,5 +4,5 @@ This is a collection of Ducky Script payloads I have written for the Hak5 USB Ru
 ## List of Scripts:
 Name: | Description: | Download:
 --- | --- | ---
-[rickroll](/rickroll) | Opens a rickroll in YouTube in full screen at maximum volume. | [payload.txt](/rickroll/payload.txt) [inject.bin](/rickroll/inject.bin)
-[rickrollPayload](/rickrollPayload) | Opens a rickroll in YouTube in full screen at maximum volume as a distraction while another command is run in terminal. | [payload.txt](/rickrollPayload/payload.txt) [inject.bin](/rickrollPayload/inject.bin)
+[rickroll](/macOS/rickroll) | Opens a rickroll in YouTube in full screen at maximum volume. | [payload.txt](/macOS/rickroll/payload.txt) [inject.bin](/macOS/rickroll/inject.bin)
+[rickrollPayload](/macOS/rickrollPayload) | Opens a rickroll in YouTube in full screen at maximum volume as a distraction while another command is run in terminal. | [payload.txt](/macOS/rickrollPayload/payload.txt) [inject.bin](/macOS/rickrollPayload/inject.bin)
