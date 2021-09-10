@@ -1,9 +1,10 @@
-REM Name:		macOS rickroll
-REM Description:	Opens a rickroll in YouTube in full screen at maximum volume.
-REM Author:		Nils Streedain
-REM Version:		1.0
-REM Target:		macOS 11.0+
-REM Source:		https://github.com/nilsstreedain/Ducky-Scripts/
+REM Title:	macOS rickroll
+REM Author:	Nils Streedain
+REM Description:Opens a rickroll in YouTube in full screen at maximum volume.
+REM Target:	macOS 11.0+
+REM Version:	1.0
+REM Category:	Prank
+REM Source: https://github.com/nilsstreedain/Ducky-Scripts/
 
 DELAY 100
 COMMAND SPACE
